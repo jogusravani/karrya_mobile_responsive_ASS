@@ -22,3 +22,5 @@ This project is a mobile-first React + Vite + Tailwind reproduction of KaaryaCon
 3. Root directory: leave blank. Build command: `npm run build`. Output directory: `dist`.
 4. Deploy. Your site will be live at `https://<your-project>.vercel.app`.
 
+<!-- Deployment test: Fixed @vitejs/plugin-react dependency -->
+
